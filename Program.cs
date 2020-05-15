@@ -24,6 +24,8 @@ namespace ConsoleApp
 
             Console.WriteLine(num1 / num2);
 
+            Console.ReadLine();
+
         }
     }
 }
