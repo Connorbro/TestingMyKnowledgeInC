@@ -7,6 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             throwErrorFunction();
+            
         }
 
             static void throwErrorFunction()
@@ -25,13 +26,8 @@ namespace ConsoleApp
                 Console.WriteLine("Error");
 
                 }
-
-                
-
                 Console.ReadLine();
             }
-            
-
      }
 }
 
