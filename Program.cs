@@ -17,7 +17,8 @@ namespace ConsoleApp
 
             Console.ReadLine();
 
-            Console.Write("Enter a number: ")
+            Console.Write("Enter a number: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
 
         }
     }
