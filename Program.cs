@@ -14,6 +14,8 @@ namespace ConsoleApp
             };
             Console.WriteLine(numberGrid[0, 0]);
 
+            Console.ReadLine();
+
         }
     }
 }
