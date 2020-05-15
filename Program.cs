@@ -21,10 +21,13 @@ namespace ConsoleApp
 
                     Console.WriteLine(num1 / num2);
                 }
-                catch(Exception e)
+                catch(DivideByZeroException e)
                 {
-                Console.WriteLine(e.Message);
-
+                    Console.WriteLine(e.Message);
+                }
+                catch(FormatException e)
+                {
+                Console.WriteLine(e.Message);   
                 }
                 Console.ReadLine();
             }
