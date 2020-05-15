@@ -21,9 +21,9 @@ namespace ConsoleApp
 
                     Console.WriteLine(num1 / num2);
                 }
-                catch
+                catch(Exception e)
                 {
-                Console.WriteLine("Error");
+                Console.WriteLine(e.Message);
 
                 }
                 Console.ReadLine();
