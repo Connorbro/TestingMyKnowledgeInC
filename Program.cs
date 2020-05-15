@@ -31,6 +31,6 @@ namespace ConsoleApp
                 }
                 Console.ReadLine();
             }
-     }
+    }
 }
 
