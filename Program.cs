@@ -12,7 +12,7 @@ namespace ConsoleApp
                 {3, 4 },
                 {5, 6 }
             };
-            Console.WriteLine(numberGrid[0, 0]);
+            Console.WriteLine(numberGrid[0, 1]);
 
             Console.ReadLine();
 
