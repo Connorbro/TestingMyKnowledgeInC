@@ -11,6 +11,15 @@ namespace ConsoleApp
 
             static void throwErrorFunction()
             {
+                try
+            {
+
+            }
+            catch
+            {
+
+            }
+
                 Console.Write("Enter a number: ");
                 int num1 = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Enter a second number: ");
