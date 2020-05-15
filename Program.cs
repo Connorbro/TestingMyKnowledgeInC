@@ -22,6 +22,7 @@ namespace ConsoleApp
                 }
                 catch
                 {
+                Console.WriteLine("Error");
 
                 }
 
