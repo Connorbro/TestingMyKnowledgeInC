@@ -12,6 +12,7 @@ namespace ConsoleApp
                 {3, 4 },
                 {5, 6 }
             };
+            int[,] myArray = new int[2, 3];
             Console.WriteLine(numberGrid[0, 1]);
 
             Console.ReadLine();
