@@ -17,6 +17,8 @@ namespace ConsoleApp
 
             Console.ReadLine();
 
+            Console.Write("Enter a number: ")
+
         }
     }
 }
