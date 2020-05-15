@@ -8,8 +8,10 @@ namespace ConsoleApp
         {
             int[,] numberGrid =
             {
-
-            }
+                {1, 2 },
+                {3, 4 },
+                {5, 6 }
+            };
         }
     }
 }
