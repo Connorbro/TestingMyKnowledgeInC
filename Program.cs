@@ -29,12 +29,7 @@ namespace ConsoleApp
                 {
                 Console.WriteLine(e.Message);   
                 }
-                finally
-                {
-
-
-
-                }
+                
                 Console.ReadLine();
             }
     }
